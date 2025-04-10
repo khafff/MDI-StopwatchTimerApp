@@ -1,0 +1,15 @@
+# Folder Visual Studio
+.vs/
+bin/
+obj/
+
+# File konfigurasi user
+*.user
+*.suo
+
+# Folder Visual Studio Code
+.vscode/
+
+# File log dan cache
+*.log
+*.cache
